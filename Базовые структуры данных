@@ -1,0 +1,16 @@
+# "1st program"
+print (9**0.5*5)
+# "2nd program"
+print(9.99>9,98 and 1000!=1000.1)
+# "3rd program"
+print(2*2+2)
+print(2*2+(2+2))
+print ((2*2+2) == (2*2+(2+2)))
+# 4th program" 1вариант
+name = '123.456'
+print (name [4])
+# 2 вариант
+a = '123.456'
+a = float ('123.456')
+b = (a * 10)
+print (int(b  % 10))
